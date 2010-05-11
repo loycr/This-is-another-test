@@ -1,0 +1,5 @@
+C:\Users\RustyL\Documents\Visual Studio 2008\Projects\IllustratedC#\TestApp1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RustyL\Documents\Visual Studio 2008\Projects\IllustratedC#\TestApp1\bin\Debug\TestApp1.exe
+C:\Users\RustyL\Documents\Visual Studio 2008\Projects\IllustratedC#\TestApp1\bin\Debug\TestApp1.pdb
+C:\Users\RustyL\Documents\Visual Studio 2008\Projects\IllustratedC#\TestApp1\obj\Debug\TestApp1.exe
+C:\Users\RustyL\Documents\Visual Studio 2008\Projects\IllustratedC#\TestApp1\obj\Debug\TestApp1.pdb
